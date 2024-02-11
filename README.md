@@ -9,3 +9,18 @@ This Python GUI application provides a user-friendly interface for performing se
 6.	Text Data Preprocessing: For text-based data, the application includes text preprocessing functionality. It converts text to lowercase, tokenizes it into words, removes stopwords and non-alphabetic tokens, and applies stemming to reduce words to their root form.
 7.	Customization and Visualization: The application allows users to customize preprocessing and algorithm selection based on their data's characteristics. It also visualizes key results, such as confusion matrices for classification tasks.
 8.	User-Friendly Interface: The application is built using the Tkinter library, providing a user-friendly and interactive graphical interface for users to perform data-related tasks.
+
+
+
+# Dataset Description:
+Used datasets to test the program and how it performs are:
+
+1)	Email Spam Detection Dataset: Containing related information of 5172 randomly picked email files and their respective labels for spam or not-spam classification.
+2)	Document Classification Dataset: There are 3 main classes, slides, thesis and research. Slides corresponds to slides documents from SlideShare, thesis for student thesis paper in CORE and research for any other article that is neither a set of slides or a student thesis paper.
+3)	Platform Price Prediction Dataset: I used salary and bikes prices datasets
+
+
+Link of Dataset:
+1) Email Spam Detection Dataset (classification) | Kaggle
+2) Document classification from aggregated features | Kaggle
+3) Salary_Data | Kaggle , (Can’t find the motorcycle dataset it was an old dataset I found in my pc)
